@@ -8,9 +8,9 @@ A scraping client for esgf metadata
 
 # TODO
 ## phase one: service layer
-* create setup scripts
+* ~~create setup scripts~~
 * learn how to mongo
-* write esgf metadata collection 
+* ~~write esgf metadata collection~~ 
 * connect metadata collection with db
 
 ## phase two: user layer
