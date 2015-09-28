@@ -1,9 +1,16 @@
 # esgf_scrape
 A scraping client for esgf metadata
 
+# Setup Instructions
+
+	`git clone git@github.com:sterlingbaldwin/esgf_scrape.git
+	virtualenv env
+	source env/bin/activate
+	pip install -r requirements.txt`
+	
 
 # Developement Status
--> Just started the repo
+-> First few things off the list
 
 
 # TODO
