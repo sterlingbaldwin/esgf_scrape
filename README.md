@@ -3,11 +3,11 @@ A scraping client for esgf metadata
 
 # Setup Instructions
 
-	`git clone git@github.com:sterlingbaldwin/esgf_scrape.git
+	git clone git@github.com:sterlingbaldwin/esgf_scrape.git
 	virtualenv env
 	source env/bin/activate
-	pip install -r requirements.txt`
-	
+	pip install -r requirements.txt
+
 
 # Developement Status
 -> First few things off the list
